@@ -12,7 +12,7 @@ function convertValues() {
     const euroToday = 5.37;
     const bitcoinToday = 221600.81;
     const libraToday = 6.21;
-    const pesoargToday = 0.0012
+    
 
     if (currencySelect.value == "dolar") {
         currencyDown.innerHTML = new Intl.NumberFormat("en-US", {
